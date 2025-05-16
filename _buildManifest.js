@@ -53,7 +53,7 @@
     ],
     '/apps/open': [
       'static/css/3ea310de06f1d86b.css',
-      'static/chunks/pages/apps/open-d4d6fc012ad742ff.js',
+      'static/chunks/pages/apps/open-cc9b97340708352f.js',
     ],
     '/balances': [
       c,
@@ -106,7 +106,7 @@
       'static/css/0f51dd2a0a2abeb0.css',
       'static/chunks/pages/settings/notifications-752b2a824cf5633d.js',
     ],
-    '/settings/safe-apps': [s, 'static/chunks/pages/settings/safe-apps-9f1835be5e4abc4b.js'],
+    '/settings/safe-apps': [s, 'static/chunks/pages/settings/safe-apps-1efa96835adb5788.js'],
     '/settings/security': [s, 'static/chunks/pages/settings/security-d2d91b132f93851d.js'],
     '/settings/setup': [
       c,
@@ -114,7 +114,7 @@
       'static/css/044bc53ab4d0bbaa.css',
       'static/chunks/pages/settings/setup-317bc5294f4bf540.js',
     ],
-    '/share/safe-app': ['static/chunks/pages/share/safe-app-fb9ab66515c22b5c.js'],
+    '/share/safe-app': ['static/chunks/pages/share/safe-app-d228772b4fb16e1e.js'],
     '/spaces': [
       n,
       e,
@@ -142,7 +142,7 @@
       'static/chunks/pages/spaces/settings-373e5ffb2fce8bae.js',
     ],
     '/stake': ['static/chunks/pages/stake-7546fde94e5f4a64.js'],
-    '/swap': ['static/chunks/pages/swap-1a4b37d5111528c3.js'],
+    '/swap': ['static/chunks/pages/swap-851b32e0372b72db.js'],
     '/terms': ['static/chunks/pages/terms-dd5bfe591e50e35d.js'],
     '/transactions': [j, m, l, 'static/chunks/pages/transactions-49de5f2f5236592e.js'],
     '/transactions/history': [
@@ -243,7 +243,7 @@
   0,
   'static/chunks/2487-c702b8aa34cd7e20.js',
   'static/chunks/7782-6ff7f89f1b62d303.js',
-  'static/chunks/7118-3368a89802ece9b5.js',
+  'static/chunks/7118-f36a18cbd42f588e.js',
   'static/chunks/4587-8857296862bda95d.js',
   1e-4,
   NaN,
