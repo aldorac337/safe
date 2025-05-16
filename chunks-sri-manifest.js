@@ -319,8 +319,8 @@ window.__CHUNK_SRI_MANIFEST = {
     'sha384-vsYkJmxwuBn1f5/5Ubej83GERL/wOZbKr++bJu+4h7wcC/WIGe+fe6ByvgxW6/76',
   '/_next/static/chunks/pages/404-75a6896c681d332e.js':
     'sha384-3r9ryCgaTMjszlo8/PIKV2EsOyES2aIfa2dUKpA463xoUh0T51fsm97ppkf7EdbZ',
-  '/_next/static/chunks/pages/_app-f8681501b8559631.js':
-    'sha384-b1bti5Ux+Le91+LmWwZ3ypJvJNQv/reeJ9FbVTK9asqQchD1dah9TdXAEXNNr5qa',
+  '/_next/static/chunks/pages/_app-05e43595c224cbbc.js':
+    'sha384-n7tpyonD0r0nWukeLVa7wwJHHUXZ7FLKIWaX1zXIzDgI1lbXz3r9bTsA1Ebm7oPi',
   '/_next/static/chunks/pages/_error-9925820b1b15dc48.js':
     'sha384-4/gm9mJpwN2SCNtVIz9S+gI1TcM/Ae7MSqgjK48zFsBjmvmBWH2CLmGJ0zeqScyf',
   '/_next/static/chunks/pages/_offline-4ab80475b0151b82.js':
@@ -393,8 +393,8 @@ window.__CHUNK_SRI_MANIFEST = {
     'sha384-VKCm7rb0tTmqJOUIc9I/spUioI0g+CHFDQNryOhftFK7i0Fv8lXs0MUcheKXxkVO',
   '/_next/static/chunks/pages/stake-7546fde94e5f4a64.js':
     'sha384-/OfQhRN+dmmZua+osUWeImZvwnyby7/Ue0PExdiSHWoW+MkFBfnKqMUE1sDeEooY',
-  '/_next/static/chunks/pages/swap-df55121ac9bc3a10.js':
-    'sha384-aT+8p3LFMckOYIxzCA1XmkVdptQtlQLmSPcCb1Ia6z8CEfPOp+TZtyUsoqiVXBVo',
+  '/_next/static/chunks/pages/swap-1a4b37d5111528c3.js':
+    'sha384-vKXb1vg9lvrWaiGWcVXDsjBHKCfi28psO7vbcR6DBK9AuuH3zNlrmIuRDdE2+U2c',
   '/_next/static/chunks/pages/terms-dd5bfe591e50e35d.js':
     'sha384-kLvrbSlrAvkigaA30xzuSw9neIKYfrgBsJcpEkH8IPdLm8/hhhHluSc/tSnLdu4+',
   '/_next/static/chunks/pages/transactions/history-b383d4d641d24c50.js':

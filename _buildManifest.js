@@ -142,7 +142,7 @@
       'static/chunks/pages/spaces/settings-373e5ffb2fce8bae.js',
     ],
     '/stake': ['static/chunks/pages/stake-7546fde94e5f4a64.js'],
-    '/swap': ['static/chunks/pages/swap-df55121ac9bc3a10.js'],
+    '/swap': ['static/chunks/pages/swap-1a4b37d5111528c3.js'],
     '/terms': ['static/chunks/pages/terms-dd5bfe591e50e35d.js'],
     '/transactions': [j, m, l, 'static/chunks/pages/transactions-49de5f2f5236592e.js'],
     '/transactions/history': [
