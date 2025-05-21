@@ -323,8 +323,8 @@ window.__CHUNK_SRI_MANIFEST = {
     'sha384-vsYkJmxwuBn1f5/5Ubej83GERL/wOZbKr++bJu+4h7wcC/WIGe+fe6ByvgxW6/76',
   '/_next/static/chunks/pages/404-75a6896c681d332e.js':
     'sha384-3r9ryCgaTMjszlo8/PIKV2EsOyES2aIfa2dUKpA463xoUh0T51fsm97ppkf7EdbZ',
-  '/_next/static/chunks/pages/_app-a3c9fa41deeb5d3e.js':
-    'sha384-3Ss3L6XXVipOYbjUhSFi+gu90w0x+CuXh3hPHIW21buN0e2mQqTGL4nkLd9GLkoh',
+  '/_next/static/chunks/pages/_app-1cd1bc426b07c5fa.js':
+    'sha384-ilc3QpINugLii7watX041+c58/9p84XtIGqigEPvD2aan27A43SMZVvw28ZfZMQ1',
   '/_next/static/chunks/pages/_error-9925820b1b15dc48.js':
     'sha384-4/gm9mJpwN2SCNtVIz9S+gI1TcM/Ae7MSqgjK48zFsBjmvmBWH2CLmGJ0zeqScyf',
   '/_next/static/chunks/pages/_offline-4ab80475b0151b82.js':
