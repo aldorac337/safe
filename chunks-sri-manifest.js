@@ -97,6 +97,8 @@ window.__CHUNK_SRI_MANIFEST = {
     'sha384-/ZdnRuutDwF6bY+3rBR96Kg6l4rIo5oZ4X7wgBxPBf5QSiY4S4lj2qZMzJ3I7kwT',
   '/_next/static/chunks/3491.30ecdb5da3027aef.js':
     'sha384-FYJgSTgZkpCNwbXXylIdKG6J94Wuw75ypSBXt6GBoa/wTP+nxJg0GyJXA4Ur1yV1',
+  '/_next/static/chunks/3503-4b27345be976aea1.js':
+    'sha384-MyihkIJg6RoxJU9xbdSm0kGCYNL9QqWJ+Mkb+SNKfllh3YTijMpdQ1hLGpR/Fupb',
   '/_next/static/chunks/3544.214130f045bd0e72.js':
     'sha384-HQoAa30HZJ6GiHkjw0oSYTZIJOK11FQ3RY+vsF6tJd0hc79jzg+qtOtImLcJ/0Pr',
   '/_next/static/chunks/3648.aed1fbcdf41fe69b.js':
@@ -129,12 +131,12 @@ window.__CHUNK_SRI_MANIFEST = {
     'sha384-muKzWs/RshgOWIJf3M0ce0JHknhjT7pli8NSZKrS5i7URfkLUZk0poFaQ00O+1Dw',
   '/_next/static/chunks/4226.c68caeb93ed62413.js':
     'sha384-dAMHCuIB2+JFCW5KVk2Y1UtVEvJiyEv6EZ1i5cXPkmc8VZyEZWY37N9PmIEnTrgk',
-  '/_next/static/chunks/4228-6f09bf1bd68c14ef.js':
-    'sha384-sMOaMq3PEB5LEdq9sOtczDiiPLfpjKMk7ZPbt1r/K6eszTxwt+r43Bl1IgBcXelQ',
   '/_next/static/chunks/4276.e2e26c14992f2919.js':
     'sha384-mXA+vRXzMga1QSeqYQ6mFApVbI8sES9AsMWr0B4LiYzN0+dM1wfJ/BHJweXAZPvN',
   '/_next/static/chunks/4283.7e729b3e7f0bea52.js':
     'sha384-AfUdkh3Kn3DQNok4E+kCNG3RmKoJpr3jIAZMin8HYwaQNe3rCrdEiD3o6lgpAZ8M',
+  '/_next/static/chunks/4364.1822429413d8a235.js':
+    'sha384-K565B8FHLXX8X9NmT7GIIIMuE4rxnxhkUODyHsFuRPWQB6ssdLzWbsVVhImXgeeX',
   '/_next/static/chunks/4450.cadfbe03c222acbd.js':
     'sha384-XrhQz7IDNGJUL32lHaOIjaDv4CdEjPTAANiLSgBzUVWNg8Ijw8+7rnXSEbPKQolt',
   '/_next/static/chunks/4587-8857296862bda95d.js':
@@ -145,6 +147,8 @@ window.__CHUNK_SRI_MANIFEST = {
     'sha384-8rmIuxUx0PuTcEFMgx4OZJO2hZrbSpqXqclnKYXPZ+TOozGPAL4ppuBJxwx1qIZ8',
   '/_next/static/chunks/4793-7e53f4e423995fec.js':
     'sha384-6xACEVF9oNNhQTmkRnWtjXkfumcP/wrmBF+9LegIe6x38GiCj95hlxC/XV25CCaa',
+  '/_next/static/chunks/4827.da748c2d8a0c6a9d.js':
+    'sha384-uUcmuVgE/JKRuebtOQc6bJ+MwheRK8zj9BmcYdRULq0a5gtUMqoILmrbdioyhIpn',
   '/_next/static/chunks/486.957bd9eeaedd5dd2.js':
     'sha384-Uf37Z8tNwmgOh81lHWFC6YdKNmdN3sQmiaMeP8KAOsmv83afqK9aDEnJOlGjCuLd',
   '/_next/static/chunks/4895.184961e9c1f044fb.js':
@@ -157,8 +161,6 @@ window.__CHUNK_SRI_MANIFEST = {
     'sha384-1ws3CtV5D7CT4u6U4mr3JtDsaUjzOEUVeTxO9or+BUljlmXEHa3GZxrX5m/RUSir',
   '/_next/static/chunks/5156.70f55208fcf67e27.js':
     'sha384-tcK+Mm8dcAJTE6VjjjQYAwh3APAEL7vH9h4y5lL6t/IqMRHMoaALCfR9+N220ztK',
-  '/_next/static/chunks/5158.ed0af20e4f0b8f5b.js':
-    'sha384-3m07f0wOYGutuPp1UTS9rZuVKHP1whOppT8HaW2CrkUrJsQaWtVQK63M6f+slVUt',
   '/_next/static/chunks/5186-d87bd713514dba9f.js':
     'sha384-MTt9nx3KjYRwDK8hIu8BJaUkyMJoq4W0z8/CoDXLxqncEOogfsXq5Y0VrOOtgmeK',
   '/_next/static/chunks/520.f489ae31e138b6fb.js':
@@ -221,6 +223,8 @@ window.__CHUNK_SRI_MANIFEST = {
     'sha384-47/4mIlcdecaWfwxxR7k1YgWUV+Nq9gfOmkBj9vHCU64tiNf0q7RcmEkxVnz54HZ',
   '/_next/static/chunks/7258.0ec75424c826d44a.js':
     'sha384-GIEGRUwT0Um/EBsJWLM/VMJasOJRH25yTbdldZYdk3Y65AuXHSLHbjf86IFVA/CE',
+  '/_next/static/chunks/7301.b1d5d9b0a894a191.js':
+    'sha384-X9uK8zp2fUy3+80NVxykdT2JTVGNKZ1tUjlHt3nT2vVzafwCETgbH1BlSY96i7PU',
   '/_next/static/chunks/7333.fcb421cb3cf212af.js':
     'sha384-5EmuJ0lI2v/NaeeqISiltLStWu+kWC0EjqAJ0XhQBfeN7kgcqzfhU9XW3RDuoLue',
   '/_next/static/chunks/7398.28dc983e248ec037.js':
@@ -319,8 +323,8 @@ window.__CHUNK_SRI_MANIFEST = {
     'sha384-vsYkJmxwuBn1f5/5Ubej83GERL/wOZbKr++bJu+4h7wcC/WIGe+fe6ByvgxW6/76',
   '/_next/static/chunks/pages/404-75a6896c681d332e.js':
     'sha384-3r9ryCgaTMjszlo8/PIKV2EsOyES2aIfa2dUKpA463xoUh0T51fsm97ppkf7EdbZ',
-  '/_next/static/chunks/pages/_app-17f455feeb7770f9.js':
-    'sha384-BMivaKP0wwekeYlXwqL8f75YuSWasXLR+dxJeIMq7c5iGNJdbx7+a+c2rzrdJ7oT',
+  '/_next/static/chunks/pages/_app-a3c9fa41deeb5d3e.js':
+    'sha384-3Ss3L6XXVipOYbjUhSFi+gu90w0x+CuXh3hPHIW21buN0e2mQqTGL4nkLd9GLkoh',
   '/_next/static/chunks/pages/_error-9925820b1b15dc48.js':
     'sha384-4/gm9mJpwN2SCNtVIz9S+gI1TcM/Ae7MSqgjK48zFsBjmvmBWH2CLmGJ0zeqScyf',
   '/_next/static/chunks/pages/_offline-4ab80475b0151b82.js':
@@ -339,14 +343,16 @@ window.__CHUNK_SRI_MANIFEST = {
     'sha384-dThZvSOZeB30Pkti6Kg++CtDs0+nCWiDS/KIhqNpKvlPkk5eWMXzP8ZdSF/pyKuH',
   '/_next/static/chunks/pages/balances/nfts-9c8842f10c653c4c.js':
     'sha384-1nkimvkpn66//VDdJrXz0f1Txi5qH6h4leQImVA6VcsH+iVfsH4O5fHxUZ1kSLii',
-  '/_next/static/chunks/pages/balances-50851c44164d21f1.js':
-    'sha384-rU7l4satEO+4hcDyOmzzdVLGMgQa0bbMGo08cExYt58f9t8HzqPgt8+z4MMrJqcz',
+  '/_next/static/chunks/pages/balances-6f1be24c03bef8f1.js':
+    'sha384-Em2mAsUqDueSzOBO+E5uPdg97dbTES/uMe0XyoYs3AANSeCnPv9JglNqa9HXQOXP',
   '/_next/static/chunks/pages/bridge-acaa238c5d3c4b85.js':
     'sha384-4yw2yPSy+yQB9nBE5mBQofveGyYwJw/Sd3Ss+ELgF9MN9eUBZEWzCRU9h5BbqBgX',
   '/_next/static/chunks/pages/cookie-a1984619ae3705e6.js':
     'sha384-VlUsR+vXi6dH0dfuSTgMWXRawNu6BX3AkgO1IbaDIlQkV2dVqfAiaoWROzG00TtN',
-  '/_next/static/chunks/pages/home-d1b6a0a05815af23.js':
-    'sha384-vqmKHOS8taXiBU43gEM22ZHmDisFuNN2ZhmoVD5ND5ToDTkyCsjP1EX60j8VfJd0',
+  '/_next/static/chunks/pages/earn-57ccf716ba007806.js':
+    'sha384-QloUhbWHHEbprY4R8/kInx99e6EZn9XCyjTW8R2cCzcA6UUjDRYi4fg856PpFaBf',
+  '/_next/static/chunks/pages/home-4b6f540d11846662.js':
+    'sha384-j9k+zjTfTqBz+mPliaSDqfB9G6Oq1ChKrsB88T5Yvka6pEXOKsqgAiEaNwmTlcFm',
   '/_next/static/chunks/pages/imprint-1585c195a0c7c860.js':
     'sha384-QccgXEIDhfakyRU1AumtjBro36PCvkAZGL2t8Zfl0kaa1pbHfEmXQ3geKtHdpRGD',
   '/_next/static/chunks/pages/index-1ba73c8902416d81.js':
@@ -391,10 +397,10 @@ window.__CHUNK_SRI_MANIFEST = {
     'sha384-nTWmRKHlFh2Nu7kAdApEr4S5eSCjyiVjI22VC7WiZfMf0l+V5iKibKKD8CLV0Oox',
   '/_next/static/chunks/pages/spaces-d5c838734d269da3.js':
     'sha384-VKCm7rb0tTmqJOUIc9I/spUioI0g+CHFDQNryOhftFK7i0Fv8lXs0MUcheKXxkVO',
-  '/_next/static/chunks/pages/stake-7546fde94e5f4a64.js':
-    'sha384-/OfQhRN+dmmZua+osUWeImZvwnyby7/Ue0PExdiSHWoW+MkFBfnKqMUE1sDeEooY',
-  '/_next/static/chunks/pages/swap-851b32e0372b72db.js':
-    'sha384-2d0StEG/1aWnSeXG2WyDGUyvYHuP3IkTfJCgxgso7U0pJ6owhFQLbePyvrdN6g3n',
+  '/_next/static/chunks/pages/stake-8801ca76c91f7e81.js':
+    'sha384-lECDrSKwmmY5no5Sr5lt4vaqOq2UZBV1Hj/jAVrbSCsiXQeTgAaWhml70A99LJJZ',
+  '/_next/static/chunks/pages/swap-543b3cf54fc126e4.js':
+    'sha384-IrvEydF7JsqPpYxJkgNjS8M8vR1enBU4AWj5onHmnryFgJ+Rta2WgPxkhpl5YSYk',
   '/_next/static/chunks/pages/terms-dd5bfe591e50e35d.js':
     'sha384-kLvrbSlrAvkigaA30xzuSw9neIKYfrgBsJcpEkH8IPdLm8/hhhHluSc/tSnLdu4+',
   '/_next/static/chunks/pages/transactions/history-b383d4d641d24c50.js':
@@ -421,6 +427,6 @@ window.__CHUNK_SRI_MANIFEST = {
     'sha384-AOOoRc0uiKqGMb83SJ5a29o0tcZprjALK4Pmj24xTRd3otn/kpsV896a4EAv3hvV',
   '/_next/static/chunks/polyfills-42372ed130431b0a.js':
     'sha384-w1OChgUsMz6Qk5chKcfnqibG8VNLM2FcpIoMlpX/PTNfc9SE68eLEzTKv7bV3aY7',
-  '/_next/static/chunks/webpack-0a436a2033b2d4cf.js':
-    'sha384-ktwaisNR1fONHkQNQy20/gK6251lu06PH80w8N0uJK1TIRzVsJJeq5gMNOToffNH',
+  '/_next/static/chunks/webpack-d7d82c54f857ee14.js':
+    'sha384-d+rP/xSdNQt2WNm6hGDtldY0TqqkaUrQuzSmI01o1FYY1Y34/+gAjRl0jjN9Knkc',
 };
