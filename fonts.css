@@ -1,55 +1,15 @@
 @font-face {
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: normal;
-  src: url('/assets/fonts/Inter-Regular.woff') format('woff');
+  font-family: 'DM Sans';
+  font-display: swap;
+  font-weight: 400;
+  /** check that the font is loaded on the website. IDEs fail to find the file */
+  src: url('/fonts/DMSansRegular.woff2') format('woff2');
 }
 
 @font-face {
-  font-family: 'Inter';
-  font-style: italic;
-  font-weight: normal;
-  src: url('/assets/fonts/Inter-Italic.woff') format('woff');
-}
-
-@font-face {
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 500;
-  src: url('/assets/fonts/Inter-Medium.woff') format('woff');
-}
-
-@font-face {
-  font-family: 'Inter';
-  font-style: italic;
-  font-weight: 500;
-  src: url('/assets/fonts/Inter-MediumItalic.woff') format('woff');
-}
-
-@font-face {
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 600;
-  src: url('/assets/fonts/Inter-SemiBold.woff') format('woff');
-}
-
-@font-face {
-  font-family: 'Inter';
-  font-style: italic;
-  font-weight: 600;
-  src: url('/assets/fonts/Inter-SemiBoldItalic.woff') format('woff');
-}
-
-@font-face {
-  font-family: 'Inter';
-  font-style: normal;
+  font-family: 'DM Sans';
+  font-display: swap;
   font-weight: bold;
-  src: url('/assets/fonts/Inter-Bold.woff') format('woff');
-}
-
-@font-face {
-  font-family: 'Inter';
-  font-style: italic;
-  font-weight: bold;
-  src: url('/assets/fonts/Inter-BoldItalic.woff') format('woff');
+  /** check that the font is loaded on the website. IDEs fail to find the file */
+  src: url('/fonts/DMSans700.woff2') format('woff2');
 }
