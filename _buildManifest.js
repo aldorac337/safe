@@ -6,8 +6,8 @@
   t,
   n,
   i,
-  d,
   f,
+  d,
   b,
   p,
   u,
@@ -24,8 +24,8 @@
 ) {
   return {
     __rewrites: { afterFiles: [], beforeFiles: [], fallback: [] },
-    __routerFilterStatic: { numItems: 0, errorRate: 1e-4, numBits: 0, numHashes: d, bitArray: [] },
-    __routerFilterDynamic: { numItems: c, errorRate: 1e-4, numBits: c, numHashes: d, bitArray: [] },
+    __routerFilterStatic: { numItems: 0, errorRate: 1e-4, numBits: 0, numHashes: f, bitArray: [] },
+    __routerFilterDynamic: { numItems: c, errorRate: 1e-4, numBits: c, numHashes: f, bitArray: [] },
     '/': ['static/chunks/pages/index-d59bdc8574371cd7.js'],
     '/403': ['static/chunks/pages/403-df6c1d1fe03a1031.js'],
     '/404': ['static/chunks/pages/404-480787c49b490e7c.js'],
@@ -34,7 +34,7 @@
     '/addOwner': ['static/chunks/pages/addOwner-f34aa58281ce48a9.js'],
     '/address-book': [
       e,
-      f,
+      d,
       'static/css/3d2cd67431c93f08.css',
       'static/chunks/pages/address-book-2c92eb095bc1c50a.js',
     ],
@@ -102,7 +102,7 @@
       s,
       'static/chunks/pages/settings/environment-variables-b63b85ddd86cdadc.js',
     ],
-    '/settings/modules': [s, 'static/chunks/pages/settings/modules-8a77da709c80f061.js'],
+    '/settings/modules': [s, 'static/chunks/pages/settings/modules-7b94ff5c219c7b53.js'],
     '/settings/notifications': [
       'static/css/0f51dd2a0a2abeb0.css',
       'static/chunks/pages/settings/notifications-0286e59883042143.js',
@@ -111,9 +111,9 @@
     '/settings/security': [s, 'static/chunks/pages/settings/security-26c85a47a0740f58.js'],
     '/settings/setup': [
       e,
-      f,
+      d,
       'static/css/f14125e40ea183e1.css',
-      'static/chunks/pages/settings/setup-8dad005dac6368dc.js',
+      'static/chunks/pages/settings/setup-15aa92930b3445dd.js',
     ],
     '/share/safe-app': ['static/chunks/pages/share/safe-app-6794407aaf22badd.js'],
     '/spaces': [
@@ -171,7 +171,7 @@
     '/transactions/tx': ['static/chunks/pages/transactions/tx-9e1c12a216272865.js'],
     '/user-settings': [
       'static/css/cedb8f6529ada708.css',
-      'static/chunks/pages/user-settings-1518d8ef6ae674b6.js',
+      'static/chunks/pages/user-settings-19533ce3ba322bf3.js',
     ],
     '/wc': ['static/chunks/pages/wc-26f8bf2b1bd3a01a.js'],
     '/welcome': [
