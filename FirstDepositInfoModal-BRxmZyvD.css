@@ -1,0 +1,36 @@
+._root_1ohn2_1 a p {
+  font-size: inherit;
+  line-height: inherit;
+  font-weight: inherit;
+}
+._content_tfqzq_1 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 8px;
+  margin-bottom: 16px;
+}
+._content_tfqzq_1 > p {
+  padding-left: 16px;
+  margin-left: 8px;
+  position: relative;
+}
+._content_tfqzq_1 > p:before {
+  content: '';
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background-color: #98b0c1;
+  top: 8px;
+  left: 0;
+}
+._description_tfqzq_23 {
+  margin-top: 24px;
+}
+._confirmAllCheckbox_tfqzq_26 {
+  margin-bottom: 16px;
+}
+._completeDepositButton_tfqzq_29 {
+  margin-top: 24px;
+}
