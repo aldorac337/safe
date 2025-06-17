@@ -1,0 +1,22 @@
+.styles_card__BVICi {
+  max-width: 576px;
+  padding: var(--space-2);
+  margin: var(--space-2);
+}
+.styles_button__HYtSw {
+  width: 100%;
+}
+@media (min-width: 600px) {
+  .styles_card__BVICi {
+    padding: var(--space-4);
+  }
+  .styles_button__HYtSw {
+    width: auto;
+  }
+}
+@media (min-width: 900px) {
+  .styles_card__BVICi {
+    margin-left: 230px;
+  }
+}
+/*# sourceMappingURL=942e49f1b49b6c1f.css.map*/
