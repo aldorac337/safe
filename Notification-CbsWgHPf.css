@@ -1,0 +1,100 @@
+._header-stats-mobile-divider_1wvjv_1 {
+  margin: 16px 0;
+}
+@media (min-width: 768px) {
+  ._header-stats-mobile-divider_1wvjv_1 {
+    display: none;
+  }
+}
+._metalGreyGradient_1wvjv_9 {
+  background: linear-gradient(180deg, #e5f6ff 31.12%, #e5f6ff66);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+._goldGradient_1wvjv_15 {
+  background: radial-gradient(39.89% 976.52% at 29.48% 66.63%, #e9cc49, #ffeb8f);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+._silverGradient_1wvjv_21 {
+  background: radial-gradient(39.89% 976.52% at 29.48% 66.63%, #abc2d2, #c2e6ff);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+._bronzeGradient_1wvjv_27 {
+  background: radial-gradient(98.2% 96.15% at 10.25% 61.54%, #9e4328, #b37764);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+._pointsSilverTextGradient_1wvjv_33 {
+  background: linear-gradient(180deg, #e5f6ff 31.12%, #e5f6ff66);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+._root_1wvjv_39 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 16px;
+  border-radius: 8px;
+  border: 1px solid;
+}
+._root_1wvjv_39 a {
+  color: #49afe9;
+  text-decoration: underline;
+}
+._root_1wvjv_39 a:hover {
+  color: #258ec9;
+  text-decoration: none;
+}
+._icon_1wvjv_55 {
+  min-width: 22px;
+  max-width: 22px;
+}
+.__variant-info_1wvjv_59 {
+  background-color: #49afe914;
+  border-color: #49afe9;
+}
+.__variant-info_1wvjv_59 ._icon_1wvjv_55 {
+  color: #49afe9;
+}
+.__variant-info-green_1wvjv_66 {
+  background-color: #30d69a14;
+  border-color: #30d69a;
+}
+.__variant-info-green_1wvjv_66 ._icon_1wvjv_55 {
+  color: #30d69a;
+}
+.__variant-success_1wvjv_73 {
+  background-color: #30d69a14;
+  border-color: #30d69a;
+}
+.__variant-success_1wvjv_73 ._icon_1wvjv_55 {
+  color: #30d69a;
+}
+.__variant-warning_1wvjv_80 {
+  background-color: #ffa31814;
+  border-color: #ffa318;
+}
+.__variant-warning_1wvjv_80 ._icon_1wvjv_55 {
+  color: #ffa318;
+}
+.__variant-danger_1wvjv_87 {
+  background-color: #e8486014;
+  border-color: #e84860;
+}
+.__variant-danger_1wvjv_87 ._icon_1wvjv_55 {
+  color: #e84860;
+}
+.__variant-boost_1wvjv_94 {
+  background-color: #8784f714;
+  border-color: #8784f7;
+}
+.__variant-boost_1wvjv_94 ._icon_1wvjv_55 {
+  color: #8784f7;
+}
